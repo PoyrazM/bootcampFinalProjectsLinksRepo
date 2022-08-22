@@ -1,4 +1,7 @@
 # Patika.dev & Enuygun Bootcamp Final Projects
+
+Aşağıda proje repolarına götüren linkler bulunmaktadır.
+
 ## _Links for the projects_
 
 
